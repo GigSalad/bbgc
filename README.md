@@ -37,7 +37,7 @@ void mouseReleased() {
 ```
 
 
-### Add cars to our road using the an array and the mouseReleased() function
+### Add cars to our road using an array and the mouseReleased() function
 
 Last week we got our cars driving in two lanes. Now lets add a car to the road every time you click the mouse.
 
